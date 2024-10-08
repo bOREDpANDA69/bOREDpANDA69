@@ -1,11 +1,27 @@
-## Hi there 👋
+### 👋 Hi, I’m Durgesh Kumar Kushwaha!
 
-# 💫 About Me:
-I am passionate about building innovative and intelligent applications that can solve real-world problems. I am always looking to collaborate on exciting projects in these areas.
- 
-I am currently learning more about Machine Learning, Natural Language Processing, OpenCV, and Data Structures and Algorithms.
-I enjoy exploring new technologies and expanding my skillset.
+I'm a passionate **Computer Science Engineering student** in my 7th semester at Chandigarh University, with a keen interest in **machine learning, computer vision, and front-end development**. I’m also an avid **competitive programmer**, consistently ranking among the top 6.3% globally on **LeetCode**, with a maximum rating of **1836**.
 
+### 🚀 Skills & Technologies:
+- *Programming Languages*: Python, JavaScript
+- *Frameworks & Libraries*: Flask, PyTorch, OpenCV, MediaPipe
+- *Web Development*: HTML, CSS, JavaScript, Chrome Extensions API
+- *Machine Learning & AI*: Natural Language Processing (NLP), Computer Vision, AI Model Development
+- *Tools*: Docker, scrcpy, Git, GitHub
+
+### 🏆 Achievements:
+- *LeetCode*: Top 6.3% globally (max rating: 1836)
+- *Codechef*: 3 stars (max rating: 1656)
+- *Mindsweeper Rajasthan Zonals*: Runner-Up, IIT Roorkee’s DSA contest
+- *Newton’s Grand Coding Contest 2022*: Top 2% globally
+
+### 📚 Education:
+- *Chandigarh University* | BE in Computer Science Engineering | CGPA: 7.78
+- *Kendriya Vidyalaya, Chandimandir Cantt* | Class 12: 87.4%, Class 10: 84.7% (Ranked 3rd in school)
+
+### 💼 Let's Connect:
+- *LinkedIn*: [LinkedIn Profile](https://www.linkedin.com/in/durgesh-kumar-kushwaha-18682a174/)
+- *Email*: durgeshkumar041003@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/durgesh-kumar-kushwaha-18682a174/) 
